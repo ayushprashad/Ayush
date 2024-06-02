@@ -298,7 +298,7 @@ def menu():
                                 print("[2] Manual Password ") 
                                 linex()
                                 psx=input('[•] Choose : ')
-                                if psx in ['1','01']:
+                                if psx in ['1','81']:
                                         plist.append('firstfirst')     
                                         plist.append('firstlast')
                                         plist.append('first 123')
